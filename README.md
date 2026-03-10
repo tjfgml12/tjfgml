@@ -1,4 +1,5 @@
 # 윤설희
+컴퓨터소프트웨어 개발 분야에 관심 있습니다
 
 ## 기술 스택
 ![MySQL](https://img.shields.io/badge/MySQL-1e90ff?style=flat-square&logo=mysql&logoColor=white)
